@@ -4,6 +4,6 @@ Booking Scheduler Test
 ## Objective
 To build a PWA booking scheduler
 
-## Given
-Assets
-Burb
+## Getting started
+An array with 6 character profiles are available for you.
+Using these, please create the following flow.
