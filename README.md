@@ -1,9 +1,9 @@
 # booking-scheduler-test
 Booking Scheduler Test
 
-Objective
+## Objective
 To build a PWA booking scheduler
 
-Given
+## Given
 Assets
 Burb
