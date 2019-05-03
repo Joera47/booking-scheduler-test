@@ -21,7 +21,7 @@ However, core details such as the **name, profession, photo & availability** sho
 
 ### User Availability
 The mentor's availability is listed in the has as **"availability"**.
-Availability are listed as "day/hour".
+Availabilities are listed as **"day/hour"**.
 For example: "0/13:00", 0 (Monday) refers to the day, and 13:00 (1PM) refers to the hour.
 
 Days are listed according to this hash map.
