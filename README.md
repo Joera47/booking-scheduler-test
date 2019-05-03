@@ -19,6 +19,22 @@ You are given example character profiles, which can be found [here](https://gith
 You are allowed to copy the profiles into your code, and add details to the array/hash if it helps in your methods or iterations.
 However, core details such as the **name, profession, photo & availability** should be left unchanged.
 
+### User Availability
+The mentor's availability is listed in the has as **"availability"**.
+Availability are listed as "day/hour".
+For example: "0/13:00", 0 (Monday) refers to the day, and 13:00 (1PM) refers to the hour.
+
+### Days are listed according to this hash map.
+{
+  "0" => "Monday",
+  "1" => "Tuesday",
+  "2" => "Wednesday",
+  "3" => "Thursday",
+  "4" => "Friday",
+  "5" => "Saturday",
+  "6" => "Sunday"
+}
+
 ## Your Task
 - You will need to create a mock mobile app based on the given user flows.
 - Having a database is not necessary and it is not necessary to save the bookings created. This is just a mock, and what is important is that information selected or submitted in the previous page carries over to the next.
