@@ -20,9 +20,8 @@ You are allowed to copy the profiles into your code, and add details to the arra
 However, core details such as the **name, profession, photo & availability** should be left unchanged.
 
 ## Your Task
-### Design aspect
-Your task is to draft out a design thinking user flow, 
-
-### Tech aspect
 - You will need to create a mock mobile app based on your designed user flows.
 - Having a database is not necessary and it is not necessary to save the bookings created. This is just a mock, and what is important is that information selected or submitted in the previous page carries over to the next.
+- Should have efficient logic, as in it should not be hard-coded.
+- Have visually acceptable/pleasing styling.
+- You will need to present your mobile app mock at the end of the presentation, on projector.
