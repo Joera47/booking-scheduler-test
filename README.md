@@ -25,3 +25,8 @@ However, core details such as the **name, profession, photo & availability** sho
 - Should have efficient logic, as in it should not be hard-coded.
 - Have visually acceptable/pleasing styling.
 - You will need to present your mobile app mock at the end of the presentation, on projector.
+
+### Optional
+- **User Show** page is optional, but would improve the flow significantly.
+- **Additional animations** would improve the UI and create a better experience.
+- **Database** to save user profiles or bookings created are not necessary, but you may include it if it helps with your implementation.
