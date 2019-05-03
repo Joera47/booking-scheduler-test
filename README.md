@@ -24,7 +24,7 @@ The mentor's availability is listed in the has as **"availability"**.
 Availability are listed as "day/hour".
 For example: "0/13:00", 0 (Monday) refers to the day, and 13:00 (1PM) refers to the hour.
 
-### Days are listed according to this hash map.
+Days are listed according to this hash map.
 {
   "0" => "Monday",
   "1" => "Tuesday",
@@ -34,6 +34,9 @@ For example: "0/13:00", 0 (Monday) refers to the day, and 13:00 (1PM) refers to 
   "5" => "Saturday",
   "6" => "Sunday"
 }
+
+These timeslots are repeated every week. Meaning that the mentor will be **available** at the same time and day every week.
+In your assessment, you are only required to list out their availability up to the next 30 days.
 
 ## Your Task
 - You will need to create a mock mobile app based on the given user flows.
