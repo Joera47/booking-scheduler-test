@@ -16,7 +16,7 @@ Here are example screenshots which follows the user flow from above,
 
 
 ### User Profiles
-You are given example character profiles, which can be found [here](https://github.com/Joera47/booking-scheduler-test/blob/master/character_profiles).
+You are given example character profiles, which can be found [here](https://github.com/Joera47/booking-scheduler-test/blob/master/character_profiles.rb).
 
 You are allowed to copy the profiles into your code, and add details to the array/hash if it helps in your methods or iterations.
 However, core details such as the **name, profession, photo & availability** should be left unchanged.
